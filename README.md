@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DaniKline
-- 👀 I’m interested in healthcare, education, technology, accessibility, and the overlap of those things
-- 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on almost anything interesting.
-- 📫 How to reach me : LinkedIn! 
+- 👀 I’m interested in projects where I get to learn new skills, 
+- 🌱 I'm learning everything I can get my eyes on. 
+- 💞️ I’m not looking to collaborate on any projects at the moment, but might be soon! 
+- 📫 How to reach me : LinkedIn or Twitter(@DaniDoesStuff)
 
 <!---
 DaniKline/DaniKline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
