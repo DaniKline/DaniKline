@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @DaniKline
-- 👀 I’m interested in projects where I get to learn new skills, 
-- 🌱 I'm learning everything I can get my eyes on. 
-- 💞️ I’m not looking to collaborate on any projects at the moment, but might be soon! 
-- 📫 How to reach me : LinkedIn or Twitter(@DaniDoesStuff)
+# Welcome to my personal GitHub Repo!
+
+- I love projects that enable me to learn new skills and tools but I appreciate leveling up my existing skills too.
+- Can occasionally be found on [Twitter](https://twitter.com/DaniDoesStuff) but more commonly on [LinkedIn](https://www.linkedin.com/in/dani-kline/)
+- Open to Collaboration
+
+### Strengths
+* Front-End Dev
+* A11y
+* Access & Identity 
+
+### Interests
+* Projects for public good
+* Accessible Web Development
+* Application Security
+
 
 <!---
 DaniKline/DaniKline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
