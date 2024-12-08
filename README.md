@@ -1,7 +1,7 @@
 # Welcome to my personal GitHub Repo!
 
 - I love projects that enable me to learn new skills and tools but I appreciate leveling up my existing skills too.
-- Can occasionally be found on [Twitter](https://twitter.com/DaniDoesStuff) but more commonly on [LinkedIn](https://www.linkedin.com/in/dani-kline/)
+- Can occasionally be found on [BlueSky](https://bsky.app/profile/danidoesthings.com) but more commonly on [LinkedIn](https://www.linkedin.com/in/dani-kline/)
 - Open to Collaboration
 
 ### Strengths
